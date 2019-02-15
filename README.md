@@ -3,5 +3,4 @@
 2D graphics accelerated, java code in motion view
 Flying throught the universe of java code. 
 
-Current State:
-Lots of things to Do before any actual codes pushes.
+Current State: planning out the reference and notes, no actual code yet 
